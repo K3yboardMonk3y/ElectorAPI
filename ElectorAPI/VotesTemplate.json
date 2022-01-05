@@ -1,0 +1,48 @@
+[{"Pennsylvania":{
+    "Chester":{
+        "Democrats":{
+            "Humphrey":10000,
+            "McGovern":5000
+        },
+        "Repbulicans":{
+            "Nixon":20000,
+            "Ashbrook":200,
+            "McCloskey":100
+        }
+    },
+    "Allegheny":{
+        "Democrats":{
+            "Humphrey":18000,
+            "McGovern":15000
+        },
+        "Repbulicans":{
+            "Nixon":20000,
+            "Ashbrook":22200,
+            "McCloskey":100
+        }
+    }
+},"Michigan":{
+    "Oakland":{
+        "Democrats":{
+            "Humphrey":10000,
+            "McGovern":5000
+        },
+        "Repbulicans":{
+            "Nixon":20000,
+            "Ashbrook":200,
+            "McCloskey":100
+        }
+    },
+    "Warren":{
+        "Democrats":{
+            "Humphrey":10000,
+            "McGovern":15000
+        },
+        "Repbulicans":{
+            "Nixon":2000,
+            "Ashbrook":32200,
+            "McCloskey":100
+        }
+    }
+}
+}]
